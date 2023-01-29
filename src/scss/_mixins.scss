@@ -1,0 +1,36 @@
+// Transitions
+
+@mixin transition-all($td) {
+  -webkit-transition: all $td;
+  -ms-transition: all $td;
+  transition: all $td;
+}
+%transition-all--05{
+	@include transition-all(0.5s);
+}
+%transition-all--03{
+	@include transition-all(0.3s);
+}
+%transition-all--07{
+	@include transition-all(0.7s);
+}
+%transition-none{
+	 -webkit-transition: none;
+     -ms-transition: none;
+     transition: none;
+}
+
+
+// Backgrounds
+
+%background-cover{
+	-webkit-background-size: 100%; 
+	-moz-background-size: 100%;
+	-o-background-size: 100%;
+	background-size: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover; 
+	background-size: cover;
+	background-position:center center;
+}

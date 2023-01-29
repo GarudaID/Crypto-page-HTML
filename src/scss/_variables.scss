@@ -1,0 +1,35 @@
+
+//--FONTS
+$font-body: 'Poppins', sans-serif;
+$font-headings: 'Poppins', sans-serif;
+
+//BODY
+$color-body: #ffffff;
+$bgcolor-body: #0f0638;
+
+//CUSTOM COLORS
+$color-blue: #292467;
+$color-lighterblue: #474283;
+$color-darkblue: #171652;
+$color-purple: #bf62f9;
+$color-darkpurple: #291f57;
+$color-lightgreen: #47e7ce;
+$color-darkgray: #0f0638;
+$color-gray: #291f57;
+$color-red: #e58db6;
+
+
+//CUSTOM GRADIENTS BACKGROUNDS
+.gradient-lightgreen{
+	background-color: #47e7ce !important;
+	background: linear-gradient(60deg, #47e7ce 0%, #4fa8c4 100%) !important;
+}
+.gradient-purple{
+	background-color: #633a97 !important;
+	background: linear-gradient(60deg, #633a97 0%, #4c87c6 100%) !important;
+}
+
+
+
+
+
